@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style_properties>
+  <style_property property_name="BCxencat_background" group_name="BCxencat" title="Background layout color" property_type="css" display_order="10" css_components="background,padding,extra">
+    <value>[]</value>
+  </style_property>
+  <style_property property_name="BCxencat_infinite" group_name="BCxencat" title="Enable infinite scrolling" property_type="value" value_type="boolean" value_group="infinite" display_order="1000">
+    <value>1</value>
+  </style_property>
+  <style_property property_name="BCxencat_infinite_click" group_name="BCxencat" title="Require click to load" property_type="value" value_type="boolean" depends_on="BCxencat_infinite" value_group="infinite" display_order="1100">
+    <value>1</value>
+  </style_property>
+  <style_property property_name="BCxencat_layout" group_name="BCxencat" title="Portal Layout" property_type="value" value_type="radio" value_group="BCxencat_layout" display_order="1500">
+    <value_parameters>list={{ phrase('BCxencat_list_layout') }}
+standard={{ phrase('BCxencat_standard_layout') }}
+grid={{ phrase('BCxencat_grid_layout') }}
+grid-col2={{ phrase('BCxencat_grid_col2_layout') }}
+masonry={{ phrase('BCxencat_masonry_layout') }}
+masonry-col2={{ phrase('BCxencat_masonry_col2_layout') }}
+boxed={{ phrase('BCxencat_boxed_layout') }}
+overlay={{ phrase('BCxencat_overlay_layout') }}
+mixed={{ phrase('BCxencat_mixed_layout') }}
+mixed-2={{ phrase('BCxencat_mixed2_layout') }}
+photography={{ phrase('BCxencat_photography_layout') }}</value_parameters>
+    <value>"grid"</value>
+  </style_property>
+  <style_property property_name="BCxencat_sidebar" group_name="BCxencat" title="Enable sidebar" property_type="value" value_type="boolean" display_order="1">
+    <value>0</value>
+  </style_property>
+</style_properties>
