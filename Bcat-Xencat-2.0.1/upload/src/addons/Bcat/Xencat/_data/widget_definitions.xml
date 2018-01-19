@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget_definitions>
+  <widget_definition definition_id="BCxencat_articles" definition_class="Bcat\Xencat\Widget\Articles"/>
+  <widget_definition definition_id="BCxencat_features" definition_class="Bcat\Xencat\Widget\Features"/>
+</widget_definitions>

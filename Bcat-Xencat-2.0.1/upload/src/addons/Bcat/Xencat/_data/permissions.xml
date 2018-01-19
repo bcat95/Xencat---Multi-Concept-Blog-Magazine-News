@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+  <permission permission_group_id="BCxencat" permission_id="modArticles" permission_type="flag" interface_group_id="BCxencat" display_order="10"/>
+  <permission permission_group_id="BCxencat" permission_id="modFeatures" permission_type="flag" interface_group_id="BCxencat" display_order="8"/>
+  <permission permission_group_id="BCxencat" permission_id="submitArticles" permission_type="flag" interface_group_id="BCxencat" display_order="5"/>
+  <permission permission_group_id="BCxencat" permission_id="submitFeatures" permission_type="flag" interface_group_id="BCxencat" display_order="5"/>
+  <permission permission_group_id="forum" permission_id="PortalFeature" permission_type="flag" interface_group_id="forumModeratorPermissions" display_order="9999"/>
+</permissions>
