@@ -23,4 +23,7 @@ mixed-2={{ phrase('BCxencat_mixed2_layout') }}
 photography={{ phrase('BCxencat_photography_layout') }}</value_parameters>
     <value>"grid-col2"</value>
   </style_property>
+  <style_property property_name="BCxencat_sidebar" group_name="BCxencat" title="Enable sidebar" property_type="value" value_type="boolean" display_order="1">
+    <value>1</value>
+  </style_property>
 </style_properties>

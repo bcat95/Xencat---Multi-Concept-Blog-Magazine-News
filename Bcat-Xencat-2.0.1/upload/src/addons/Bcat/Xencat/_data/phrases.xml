@@ -73,10 +73,12 @@
   <phrase title="style_prop.BCxencat_infinite" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Enable infinite scrolling]]></phrase>
   <phrase title="style_prop.BCxencat_infinite_click" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Require click to load]]></phrase>
   <phrase title="style_prop.BCxencat_layout" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Portal Layout]]></phrase>
+  <phrase title="style_prop.BCxencat_sidebar" version_id="2000010" version_string="2.0.1"><![CDATA[Enable sidebar]]></phrase>
   <phrase title="style_prop_desc.BCxencat_background" version_id="2000010" version_string="2.0.0"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.BCxencat_infinite" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.BCxencat_infinite_click" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.BCxencat_layout" version_id="2000010" version_string="2.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.BCxencat_sidebar" version_id="2000010" version_string="2.0.1"><![CDATA[]]></phrase>
   <phrase title="style_prop_group.BCxencat" version_id="2000010" version_string="2.0.0"><![CDATA[[BC] Xencat]]></phrase>
   <phrase title="style_prop_group_desc.BCxencat" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Portal and featured threads manager.]]></phrase>
   <phrase title="widget_def.BCxencat_articles" version_id="2000010" version_string="2.0.0"><![CDATA[BCxencat > Articles]]></phrase>

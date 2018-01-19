@@ -617,9 +617,11 @@ figure {
 		</div>
 
 
+		<xf:if is="property('BCxencat_sidebar')">
 		<div class="p-body-sidebar">
 			<xf:widgetpos id="xencat_view_sidebar"/>
 		</div>
+		</xf:if>
 	</div>
 </div>]]></template>
   <template type="admin" title="BCxencat_category_delete" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[<xf:title>{{ phrase('confirm_action') }}</xf:title>
