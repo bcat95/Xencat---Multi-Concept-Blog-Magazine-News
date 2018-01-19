@@ -14,6 +14,10 @@ Installation:
 https://xenforo.com/xf2-docs/manual/add-ons/#installing-or-upgrading-an-add-on
 * Don't forget to set up your permissions
 
+Demo:
+--------------
+https://nhatkythuthuat.com
+
 I want to check addons. I will update the description later!
 
 <div align="center">
