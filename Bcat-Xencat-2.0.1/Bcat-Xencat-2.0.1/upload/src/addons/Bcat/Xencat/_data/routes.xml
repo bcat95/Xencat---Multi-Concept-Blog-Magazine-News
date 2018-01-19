@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<routes>
-  <route route_type="admin" route_prefix="bc-xencat" controller="Bcat\Xencat:Index" context="BCxencat"/>
-  <route route_type="admin" route_prefix="bc-xencat" sub_name="articles" format="articles/:int&lt;thread_id&gt;/" controller="Bcat\Xencat:Article" context="BCxencat"/>
-  <route route_type="admin" route_prefix="bc-xencat" sub_name="categories" format="categories/:int&lt;category_id,category_name&gt;/:page" controller="Bcat\Xencat:Category" context="BCxencat"/>
-  <route route_type="admin" route_prefix="bc-xencat" sub_name="features" format="features/:int&lt;thread_id&gt;/" controller="Bcat\Xencat:Feature" context="BCxencat"/>
-  <route route_type="public" route_prefix="bc-xencat" format=":int&lt;thread_id,title&gt;/:page" controller="Bcat\Xencat:Article" context="BCxencat"/>
-  <route route_type="public" route_prefix="bc-xencat" sub_name="categories" format="categories/:int&lt;category_id,category_name&gt;/:page" controller="Bcat\Xencat:Category" context="BCxencat"/>
-</routes>
