@@ -415,16 +415,15 @@ figure {
 <xf:description>{$category.category_description}</xf:description>
 
 <xf:css src="BCxencat.less" />
-
-<xf:js src="Bcat/xencat/owlcarousel/owl.carousel.min.js" />
-<xf:js src="Bcat/xencat/jquery.lazy.min.js" />
+<xf:js src="Bcat/Xencat/owlcarousel/owl.carousel.min.js" />
+<xf:js src="Bcat/Xencat/jquery.lazy.min.js" />
 <div class="xencat-body-main xencat-body-reset">
 <xf:if is="$articles is not empty">
 	<xf:css src="BCxencat_article_item.less" />
 
 	<xf:if is="property('BCxencat_infinite') AND $page == 1 AND $total > $perPage">
 		<xf:set var="$infnt">1</xf:set>
-		<xf:js src="Bcat/xencat/infinite.js" />
+		<xf:js src="Bcat/Xencat/infinite.js" />
 	</xf:if>
 
 	<xf:if is="property('BCxencat_layout') == 'masonry' || property('BCxencat_layout') == 'masonry-col2'">
@@ -433,7 +432,7 @@ figure {
 		<xf:js src="Bcat/Xencat/masonry.pkgd.min.js" />
 	</xf:if>
 
-	<xf:js src="Bcat/xencat/xencat.js" />
+	<xf:js src="Bcat/Xencat/xencat.js" />
 
 
 	<div class="xencat-wrapper-posts-content">

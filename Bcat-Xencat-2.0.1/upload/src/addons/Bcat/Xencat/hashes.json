@@ -38,7 +38,7 @@
     "src/addons/Bcat/Xencat/_data/routes.xml": "7ebbee7484ef65745156314c4565d05c4c928270956718e6884f5295a9960aca",
     "src/addons/Bcat/Xencat/_data/style_properties.xml": "3341607a0b02183c2de80653b612769547c408b96738da9116c188e67b4f47ee",
     "src/addons/Bcat/Xencat/_data/style_property_groups.xml": "39716f7bd965884289e95ddc38bbbcee7b17e9903aebb2697ee58d3e50896641",
-    "src/addons/Bcat/Xencat/_data/templates.xml": "555e4ee05cf8dea86a27071d6eba5db9e553d600bac4ffc99839a7bf7aa130d2",
+    "src/addons/Bcat/Xencat/_data/templates.xml": "e4bfb2a609aedce55fe286505f3951d1d36c6148f3af16d288e7507ff5ff83bc",
     "src/addons/Bcat/Xencat/_data/template_modifications.xml": "da9caf33235c84cb96807d9fd1c520d242df4374e1f8e08b51d7402bea2e42ae",
     "src/addons/Bcat/Xencat/_data/widget_definitions.xml": "f3b828829db0af23a141222a277d500b597fc0f45fe3567713ac7cf5093854ef",
     "src/addons/Bcat/Xencat/_data/widget_positions.xml": "4c70ce071f79126aafd0e4b19458076f011db1950ea56937cc3c49874229dbc5"
