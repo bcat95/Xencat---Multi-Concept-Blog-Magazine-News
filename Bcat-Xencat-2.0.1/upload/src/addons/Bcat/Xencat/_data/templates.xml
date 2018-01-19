@@ -272,7 +272,7 @@
 				<div class="header-list-style">
 					<span class="cat">
 						<xf:foreach loop="$catlinks" value="$catlink">
-								<a class="xencat-cat-name" href="{{ link('bc-xencat/categories', $catlink.Category) }}">{$catlink.Category.category_name}</a>
+								<a class="penci-cat-name" href="{{ link('bc-xencat/categories', $catlink.Category) }}">{$catlink.Category.category_name}</a>
 						</xf:foreach>
 					</span>
 
