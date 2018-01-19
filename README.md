@@ -1,5 +1,22 @@
 # Xencat - current version 2.0.1 available for download
 
+This is a complete rewrite of my popular portal system for XenForo. XenPorta is an article system and front-end that allows you to give a more professional look to the front-facing sections of your forum. It's built completely within XenForo's existing structure and does not add any new content types to manage. My effort with this new version was to slim it down, make it easier to use, and get rid of the bloat.
+
+Basic Features:
+--------------
+* Promote threads on your forums into an articles index
+* Promote threads on your forums into a feature slider
+* Change the look of articles to look more news content
+* Uses XenForo 2's built-in widget management system
+
+Installation:
+--------------
+* Follows the basic XF addon procedures:
+https://xenforo.com/xf2-docs/manual/add-ons/#installing-or-upgrading-an-add-on
+* Don't forget to set up your permissions
+
+
+<p align="center">
 <a href="" rel="nofollow"><img src="https://camo.envatousercontent.com/9b1161bde18ec73746f3187fb5ad96bce7c368dc/687474703a2f2f736f6c656461642e70656e636964657369676e2e636f6d2f696d677468656d65666f726573742f627574746f6e2d766964656f732e706e67"></a>
 <a href="" rel="nofollow"><img src="https://camo.envatousercontent.com/b9f64f3d0cf339595e3a0f33e06568eab2fbf9f0/687474703a2f2f736f6c656461642e70656e636964657369676e2e636f6d2f696d677468656d65666f726573742f627574746f6e2d646f632e706e67"></a>
 
@@ -17,3 +34,4 @@ Coming soon
 <img src="https://camo.envatousercontent.com/c66728a65ef9bee985222a666366de244ec81d0c/687474703a2f2f736f6c656461642e70656e636964657369676e2e636f6d2f696d677468656d65666f726573742f4231302d726573706f6e736976652e6a7067"/>
 
 
+</p>
