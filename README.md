@@ -1,6 +1,5 @@
 # Xencat - current version 2.0.1 available for download
 
-This is a complete rewrite of my popular portal system for XenForo. XenPorta is an article system and front-end that allows you to give a more professional look to the front-facing sections of your forum. It's built completely within XenForo's existing structure and does not add any new content types to manage. My effort with this new version was to slim it down, make it easier to use, and get rid of the bloat.
 
 Basic Features:
 --------------
