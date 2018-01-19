@@ -1,5 +1,8 @@
 # Xencat - current version 2.0.1 available for download
 
+Donate
+---------
+https://www.paypal.me/bcat95
 
 Basic Features:
 --------------
