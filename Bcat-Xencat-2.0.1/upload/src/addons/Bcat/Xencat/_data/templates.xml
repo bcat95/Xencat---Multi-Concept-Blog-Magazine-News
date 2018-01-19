@@ -6,9 +6,14 @@
 	margin-bottom:15px;
     .xf-BCxencat_background();
 }
+.xencat-wrapper-posts-content ul {
+    margin: 0;
+    padding: 0;
+}
 .block.xencat-article-loader {
     text-align: center;
 }
+
 /* = loader wheel
 -----------------------------------------------------*/
 
