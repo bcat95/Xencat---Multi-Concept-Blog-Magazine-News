@@ -1,4 +1,4 @@
-# Xencat---Multi-Concept-Blog-Magazine-News FOR Xenforo 2
+# Xencat Multi-Concept-Blog-Magazine-News FOR Xenforo 2
 
 <ul>
   <li>
