@@ -321,11 +321,11 @@ var BCxencat = window.BCxencat || {};
 			}
 			
 			$scroller.on( 'append.infiniteScroll', function( event, response, path, items ) {
-				//$(".xencat-owl-carousel").trigger('destroy.owl.carousel');
+				$(".penci-owl-carousel-slider").trigger('destroy.owl.carousel');
 				$(".penci-owl-carousel-slider").owlCarousel({
 					items:1,
 					nav:true,
-					dot:false,
+					dots:false,
 					navText: ['<i class="fa fa-angle-left"></i>','<i class="fa fa-angle-right"></i>']
 				});
 				masonryInfinite();
