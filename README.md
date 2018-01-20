@@ -1,5 +1,8 @@
 # Xencat - current version 2.0.1 available for download
 
+Donate
+---------
+https://www.paypal.me/bcat95
 
 Basic Features:
 --------------
@@ -14,6 +17,15 @@ Installation:
 https://xenforo.com/xf2-docs/manual/add-ons/#installing-or-upgrading-an-add-on
 * Don't forget to set up your permissions
 
+Demo:
+--------------
+https://nhatkythuthuat.com
+
+Contact
+---------
+https://fb.me/bcat95 || 01669699383 
+
+I want to check addons. I will update the description later!
 
 <div align="center">
 <a href="" rel="nofollow"><img src="https://camo.envatousercontent.com/9b1161bde18ec73746f3187fb5ad96bce7c368dc/687474703a2f2f736f6c656461642e70656e636964657369676e2e636f6d2f696d677468656d65666f726573742f627574746f6e2d766964656f732e706e67"></a>
