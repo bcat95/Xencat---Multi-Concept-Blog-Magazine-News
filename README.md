@@ -21,6 +21,10 @@ Demo:
 --------------
 https://nhatkythuthuat.com
 
+Contact
+---------
+https://fb.me/bcat95 || 01669699383 
+
 I want to check addons. I will update the description later!
 
 <div align="center">
