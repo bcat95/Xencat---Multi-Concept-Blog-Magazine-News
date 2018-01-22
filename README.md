@@ -8,8 +8,10 @@ Basic Features:
 --------------
 * Promote threads on your forums into an articles index
 * Promote threads on your forums into a feature slider
-* Change the look of articles to look more news content
 * Uses XenForo 2's built-in widget management system
+* 10 + Features slider style
+* 10 + Articles layout
+* ~ 200 + Home Page
 
 Installation:
 --------------
