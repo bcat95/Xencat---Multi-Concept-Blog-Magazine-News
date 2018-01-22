@@ -321,6 +321,7 @@ var BCxencat = window.BCxencat || {};
 			}
 			
 			$scroller.on( 'append.infiniteScroll', function( event, response, path, items ) {
+				//destroy.owl.carousel
 				$(".penci-owl-carousel-slider").trigger('destroy.owl.carousel');
 				$(".penci-owl-carousel-slider").owlCarousel({
 					items:1,
