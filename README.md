@@ -27,6 +27,9 @@ Contact
 ---------
 https://fb.me/bcat95 || 01669699383 
 
+FORUM: 
+https://codevn.net/threads/xencat-multi-concept-blog-magazine-news.32256/
+
 I want to check addons. I will update the description later!
 
 <div align="center">
