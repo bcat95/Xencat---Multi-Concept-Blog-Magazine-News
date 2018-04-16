@@ -8,6 +8,7 @@ https://www.paypal.me/bcat95
 --------------
 * Fixes a js link to file
 * Add Public navigation Home
+* Add metadata & description
 * Update Standard layout demo: https://nhatkythuthuat.com/
 * Add Edit article promotion / Edit feature promotion
 
