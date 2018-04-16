@@ -1,0 +1,14 @@
+{
+    "legacy_addon_id": "BCxencat",
+    "title": "Xencat - Multi-Concept Blog/Magazine/News",
+    "description": "Add-on which will display featured threads on the forum home page.",
+    "version_id": 2000020,
+    "version_string": "2.0.2",
+    "dev": "Bcat",
+    "dev_url": "https://facebook.com/Bcat95",
+    "faq_url": "https://github.com/bcat95/Xencat---Multi-Concept-Blog-Magazine-News",
+    "support_url": "https://nhatkythuthuat.com/",
+    "extra_urls": [],
+    "require": [],
+    "icon": "icon.png"
+}

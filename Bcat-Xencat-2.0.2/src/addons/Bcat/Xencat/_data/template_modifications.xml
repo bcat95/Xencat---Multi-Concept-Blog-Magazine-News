@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<template_modifications>
+  <modification type="public" template="PAGE_CONTAINER" modification_key="BCxencat_PAGE_CONTAINER_copyright" description="{{ phrase('extra_copyright') }}" execution_order="10" enabled="1" action="str_replace">
+    <find><![CDATA[{{ phrase('extra_copyright') }}]]></find>
+    <replace><![CDATA[$0
+<div class="xencat-copyright">
+	<a href="https://github.com/bcat95/Xencat---Multi-Concept-Blog-Magazine-News"
+		target="_blank">Xencat Multi-Concept Blog/Magazine/News</a> &copy; Bcat
+	<a href="https://www.facebook.com/Bcat95" target="_blank">NKTT</a>
+</div>]]></replace>
+  </modification>
+  <modification type="public" template="forum_post_thread" modification_key="BCxencat_post_thread_options" description="Thread create: adds article promotion option" execution_order="10" enabled="1" action="str_replace">
+    <find><![CDATA[<xf:macro template="helper_thread_options" name="thread_status" arg-thread="{$thread}" />]]></find>
+    <replace><![CDATA[$0
+<xf:macro template="BCxencat_helper_thread_options"
+	name="thread_promote" arg-thread="{$thread}" />]]></replace>
+  </modification>
+  <modification type="public" template="thread_view" modification_key="BCxencat_thread_view_tools_menu" description="Thread tools menu: adds promote links" execution_order="10" enabled="1" action="str_replace">
+    <find><![CDATA[<!--[XF:thread_tools_menu:before_footer]-->]]></find>
+    <replace><![CDATA[$0
+<xf:if contentcheck="true">
+	<div class="menu-separator"></div>
+	<xf:contentcheck>
+		<xf:if is="{{ $xf.visitor.hasPermission('BCxencat', 'submitArticles') }}">
+			<a href="{{ link('threads/article-edit', $thread) }}"
+					class="menu-linkRow">
+				<xf:if is="{$article} AND {$article.canEdit()}">
+					{{ phrase('BCxencat_edit_article_promotion') }}
+				<xf:else />
+					{{ phrase('BCxencat_promote_to_article') }}
+				</xf:if>
+			</a>
+		</xf:if>
+		
+		<xf:if is="{{ $xf.visitor.hasPermission('BCxencat', 'submitFeatures') }}">
+			<a href="{{ link('threads/feature-edit', $thread) }}"
+					class="menu-linkRow">
+				<xf:if is="{$feature}">
+					{{ phrase('BCxencat_edit_feature_promotion') }}
+				<xf:else />
+					{{ phrase('BCxencat_promote_to_feature') }}
+				</xf:if>
+			</a>
+		</xf:if>
+	</xf:contentcheck>
+</xf:if>]]></replace>
+  </modification>
+</template_modifications>

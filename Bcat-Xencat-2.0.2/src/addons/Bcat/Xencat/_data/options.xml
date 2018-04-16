@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+  <option option_id="BCxencat_article_forums" edit_format="callback" data_type="array">
+    <default_value>["0"]</default_value>
+    <edit_format_params>XF\Option\Forum::renderSelectMultiple</edit_format_params>
+    <sub_options>*</sub_options>
+    <relation group_id="BCxencat" display_order="1009"/>
+  </option>
+  <option option_id="BCxencat_articles_perpage" edit_format="spinbox" data_type="positive_integer">
+    <default_value>10</default_value>
+    <relation group_id="BCxencat" display_order="1"/>
+  </option>
+  <option option_id="BCxencat_articles_stripbb" edit_format="onoff" data_type="boolean">
+    <default_value>1</default_value>
+    <relation group_id="BCxencat" display_order="1005"/>
+  </option>
+  <option option_id="BCxencat_articles_stripnl" edit_format="onoff" data_type="boolean">
+    <default_value>1</default_value>
+    <relation group_id="BCxencat" display_order="1004"/>
+  </option>
+  <option option_id="BCxencat_articles_trim" edit_format="spinbox" data_type="unsigned_integer">
+    <default_value>150</default_value>
+    <edit_format_params>min=0
+step=50</edit_format_params>
+    <relation group_id="BCxencat" display_order="1005"/>
+  </option>
+  <option option_id="BCxencat_gallery_limit" edit_format="spinbox" data_type="positive_integer">
+    <default_value>3</default_value>
+    <relation group_id="BCxencat" display_order="20"/>
+  </option>
+  <option option_id="BCxencat_navtab" edit_format="onoff" data_type="boolean">
+    <default_value>1</default_value>
+    <relation group_id="BCxencat" display_order="1"/>
+  </option>
+</options>

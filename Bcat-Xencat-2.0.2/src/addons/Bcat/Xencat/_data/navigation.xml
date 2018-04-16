@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation>
+  <navigation_entry navigation_id="BCxencat" display_order="100" navigation_type_id="basic" enabled="1"><![CDATA[{"link":"{{ link('bc-xencat') }}","display_condition":"$xf.options.BCxencat_navtab","extra_attributes":[]}]]></navigation_entry>
+  <navigation_entry navigation_id="BCxencat_latest" parent_navigation_id="BCxencat" display_order="3" navigation_type_id="basic" enabled="1"><![CDATA[{"link":"{{ link('whats-new\/latest-activity') }}","display_condition":"$xf.options.enableNewsFeed","extra_attributes":{"rel":"nofollow"}}]]></navigation_entry>
+  <navigation_entry navigation_id="BCxencat_newsfeed" parent_navigation_id="BCxencat" display_order="2" navigation_type_id="basic" enabled="1"><![CDATA[{"link":"{{ link('whats-new\/news-feed') }}","display_condition":"$xf.options.enableNewsFeed AND $xf.visitor.user_id","extra_attributes":{"rel":"nofollow"}}]]></navigation_entry>
+  <navigation_entry navigation_id="BCxencat_whatsnew" parent_navigation_id="BCxencat" display_order="1" navigation_type_id="basic" enabled="1"><![CDATA[{"link":"{{ link('whats-new') }}","display_condition":"","extra_attributes":[]}]]></navigation_entry>
+</navigation>

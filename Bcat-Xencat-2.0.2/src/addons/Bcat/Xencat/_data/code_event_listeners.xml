@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<code_event_listeners>
+  <listener event_id="home_page_url" execute_order="10" callback_class="Bcat\Xencat\Listener" callback_method="homePageUrl" active="0" description="Updates the home page URL to use the xencat route"/>
+</code_event_listeners>

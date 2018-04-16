@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="BCxencat_articles" version_id="2000010" version_string="2.0.0"><![CDATA[Articles]]></phrase>
+  <phrase title="BCxencat_articles_layout" version_id="2000010" version_string="2.0.0"><![CDATA[Articles layout]]></phrase>
+  <phrase title="BCxencat_boxed_layout" version_id="2000010" version_string="2.0.0"><![CDATA[Boxed layout]]></phrase>
+  <phrase title="BCxencat_edit_article_promotion" version_id="2000010" version_string="2.0.0"><![CDATA[Edit article promotion]]></phrase>
+  <phrase title="BCxencat_edit_feature_promotion" version_id="2000010" version_string="2.0.0"><![CDATA[Edit Feature promotion]]></phrase>
+  <phrase title="BCxencat_excerpt" version_id="2000010" version_string="2.0.0"><![CDATA[Excerpt]]></phrase>
+  <phrase title="BCxencat_excerpt_trim" version_id="2000010" version_string="2.0.0"><![CDATA[Excerpt trim]]></phrase>
+  <phrase title="BCxencat_features" version_id="2000010" version_string="2.0.0"><![CDATA[Features]]></phrase>
+  <phrase title="BCxencat_features_enable_auto_play_slider" version_id="2000010" version_string="2.0.0"><![CDATA[Features enable auto play slider]]></phrase>
+  <phrase title="BCxencat_features_open_container" version_id="2000010" version_string="2.0.0"><![CDATA[Features open container [Full width] ]]></phrase>
+  <phrase title="BCxencat_features_show_prev_next_controls" version_id="2000010" version_string="2.0.0"><![CDATA[Features show prev next controls]]></phrase>
+  <phrase title="BCxencat_features_slider_auto_speed" version_id="2000010" version_string="2.0.0"><![CDATA[Features slider auto speed]]></phrase>
+  <phrase title="BCxencat_features_slider_auto_time" version_id="2000010" version_string="2.0.0"><![CDATA[Features slider auto time]]></phrase>
+  <phrase title="BCxencat_features_slider_style" version_id="2000010" version_string="2.0.0"><![CDATA[Features slider style]]></phrase>
+  <phrase title="BCxencat_features_slider_style1" version_id="2000010" version_string="2.0.0"><![CDATA[Features slider style 1]]></phrase>
+  <phrase title="BCxencat_features_slider_style10" version_id="2000010" version_string="2.0.0"><![CDATA[Features slider style 10]]></phrase>
+  <phrase title="BCxencat_features_slider_style11" version_id="2000010" version_string="2.0.0"><![CDATA[Features slider style 11]]></phrase>
+  <phrase title="BCxencat_features_slider_style12" version_id="2000010" version_string="2.0.0"><![CDATA[Features slider style 12]]></phrase>
+  <phrase title="BCxencat_features_slider_style2" version_id="2000010" version_string="2.0.0"><![CDATA[Features slider style 2]]></phrase>
+  <phrase title="BCxencat_features_slider_style3" version_id="2000010" version_string="2.0.0"><![CDATA[Features slider style 3]]></phrase>
+  <phrase title="BCxencat_features_slider_style4" version_id="2000010" version_string="2.0.0"><![CDATA[Features slider style 4]]></phrase>
+  <phrase title="BCxencat_features_slider_style5" version_id="2000010" version_string="2.0.0"><![CDATA[Features slider style 5]]></phrase>
+  <phrase title="BCxencat_features_slider_style6" version_id="2000010" version_string="2.0.0"><![CDATA[Features slider style 6]]></phrase>
+  <phrase title="BCxencat_features_slider_style7" version_id="2000010" version_string="2.0.0"><![CDATA[Features slider style 7]]></phrase>
+  <phrase title="BCxencat_features_slider_style8" version_id="2000010" version_string="2.0.0"><![CDATA[Features slider style 8]]></phrase>
+  <phrase title="BCxencat_features_slider_style9" version_id="2000010" version_string="2.0.0"><![CDATA[Features slider style 9]]></phrase>
+  <phrase title="BCxencat_grid_col2_layout" version_id="2000010" version_string="2.0.0"><![CDATA[Grid 2 colums layout]]></phrase>
+  <phrase title="BCxencat_grid_layout" version_id="2000010" version_string="2.0.0"><![CDATA[Grid layout]]></phrase>
+  <phrase title="BCxencat_image_upload" version_id="2000010" version_string="2.0.0"><![CDATA[Image upload]]></phrase>
+  <phrase title="BCxencat_image_url" version_id="2000010" version_string="2.0.0"><![CDATA[Image url]]></phrase>
+  <phrase title="BCxencat_imgage_url" version_id="2000010" version_string="2.0.0"><![CDATA[You can add image address here]]></phrase>
+  <phrase title="BCxencat_list_layout" version_id="2000010" version_string="2.0.0"><![CDATA[List layout]]></phrase>
+  <phrase title="BCxencat_loading_more" version_id="2000010" version_string="2.0.0"><![CDATA[Load More Posts <i class="fa fa-refresh"></i>]]></phrase>
+  <phrase title="BCxencat_masonry_col2_layout" version_id="2000010" version_string="2.0.0"><![CDATA[Masonry 2 colums layout]]></phrase>
+  <phrase title="BCxencat_masonry_layout" version_id="2000010" version_string="2.0.0"><![CDATA[Masonry layout]]></phrase>
+  <phrase title="BCxencat_mixed2_layout" version_id="2000010" version_string="2.0.0"><![CDATA[Mixed style 2 layout]]></phrase>
+  <phrase title="BCxencat_mixed_layout" version_id="2000010" version_string="2.0.0"><![CDATA[Mixed layout]]></phrase>
+  <phrase title="BCxencat_overlay_layout" version_id="2000010" version_string="2.0.0"><![CDATA[Overlay layout]]></phrase>
+  <phrase title="BCxencat_photography_layout" version_id="2000010" version_string="2.0.0"><![CDATA[Photography layout]]></phrase>
+  <phrase title="BCxencat_please_confirm_that_you_want_to_delete_the_article_promotion_for" version_id="2000010" version_string="2.0.0"><![CDATA[Please confirm that you want to delete the article promotion for]]></phrase>
+  <phrase title="BCxencat_please_confirm_that_you_want_to_delete_the_feature_promotion_for" version_id="2000010" version_string="2.0.0"><![CDATA[Please confirm that you want to delete the feature promotion for]]></phrase>
+  <phrase title="BCxencat_promote_to_article" version_id="2000010" version_string="2.0.0"><![CDATA[Promote to article]]></phrase>
+  <phrase title="BCxencat_promote_to_feature" version_id="2000010" version_string="2.0.0"><![CDATA[Promote to feature]]></phrase>
+  <phrase title="BCxencat_standard_layout" version_id="2000010" version_string="2.0.0"><![CDATA[Standard layout]]></phrase>
+  <phrase title="BCxencat_sticky_to_article_index" version_id="2000010" version_string="2.0.0"><![CDATA[Sticky to article index]]></phrase>
+  <phrase title="BCxencat_thumb" version_id="2000010" version_string="2.0.0"><![CDATA[Thumb]]></phrase>
+  <phrase title="BCxencat_use_custom_title_and_excerpt" version_id="2000010" version_string="2.0.0"><![CDATA[Use custom title and excerpt]]></phrase>
+  <phrase title="admin_navigation.BCxencat" version_id="2000010" version_string="2.0.0"><![CDATA[[Bcat] Xencat]]></phrase>
+  <phrase title="admin_permission.BCxencat" version_id="2000010" version_string="2.0.0"><![CDATA[[Bcat] Xencat > Manage Xencat]]></phrase>
+  <phrase title="nav.BCxencat" version_id="2000010" version_string="2.0.1"><![CDATA[Home]]></phrase>
+  <phrase title="nav.BCxencat_latest" version_id="2000010" version_string="2.0.1"><![CDATA[Latest activity]]></phrase>
+  <phrase title="nav.BCxencat_newsfeed" version_id="2000010" version_string="2.0.1"><![CDATA[Your news feed]]></phrase>
+  <phrase title="nav.BCxencat_whatsnew" version_id="2000010" version_string="2.0.1"><![CDATA[What's new]]></phrase>
+  <phrase title="option.BCxencat_article_forums" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Auto-promote forums]]></phrase>
+  <phrase title="option.BCxencat_articles_perpage" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Articles per page]]></phrase>
+  <phrase title="option.BCxencat_articles_stripbb" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Strip bbcode from excerpt text]]></phrase>
+  <phrase title="option.BCxencat_articles_stripnl" version_id="2000010" version_string="2.0.0"><![CDATA[Strip line breaks from excerpt text]]></phrase>
+  <phrase title="option.BCxencat_articles_trim" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Excerpt trim]]></phrase>
+  <phrase title="option.BCxencat_gallery_limit" version_id="2000010" version_string="2.0.0"><![CDATA[Gallery limit]]></phrase>
+  <phrase title="option.BCxencat_navtab" version_id="2000010" version_string="2.0.1"><![CDATA[Enable navigation tab]]></phrase>
+  <phrase title="option_explain.BCxencat_article_forums" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA["Promote to article" will be checked on these forums when posting threads.]]></phrase>
+  <phrase title="option_explain.BCxencat_articles_perpage" version_id="2000010" version_string="2.0.0"><![CDATA[The number of articles to display per page on article lists. Note that the mixed layout should be divisible by 4, and gird is divisible by 2.]]></phrase>
+  <phrase title="option_explain.BCxencat_articles_stripbb" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Recommended to only use with "Strip line breaks" option.]]></phrase>
+  <phrase title="option_explain.BCxencat_articles_stripnl" version_id="2000010" version_string="2.0.0"><![CDATA[Text will be stripped of line breaks and appear as a paragraph.]]></phrase>
+  <phrase title="option_explain.BCxencat_articles_trim" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Excerpts will be trimmed if no [prebreak] is found. (0 to disable)]]></phrase>
+  <phrase title="option_explain.BCxencat_gallery_limit" version_id="2000010" version_string="2.0.0"><![CDATA[the number of slider images that will be displayed in the thumb gallery.]]></phrase>
+  <phrase title="option_explain.BCxencat_navtab" version_id="2000010" version_string="2.0.1"><![CDATA[]]></phrase>
+  <phrase title="option_group.BCxencat" version_id="2000010" version_string="2.0.0"><![CDATA[[BC] Xencat options]]></phrase>
+  <phrase title="option_group_description.BCxencat" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="permission.BCxencat_modArticles" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Moderate article promotions]]></phrase>
+  <phrase title="permission.BCxencat_modFeatures" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Moderate feature promotions]]></phrase>
+  <phrase title="permission.BCxencat_submitArticles" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Submit article promotions]]></phrase>
+  <phrase title="permission.BCxencat_submitFeatures" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Submit feature promotions]]></phrase>
+  <phrase title="permission.forum_PortalFeature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Can feature / unfeature threads]]></phrase>
+  <phrase title="permission_interface.BCxencat" version_id="2000010" version_string="2.0.0"><![CDATA[[Bcat] Xencat]]></phrase>
+  <phrase title="style_prop.BCxencat_background" version_id="2000010" version_string="2.0.0"><![CDATA[Background layout color]]></phrase>
+  <phrase title="style_prop.BCxencat_infinite" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Enable infinite scrolling]]></phrase>
+  <phrase title="style_prop.BCxencat_infinite_click" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Require click to load]]></phrase>
+  <phrase title="style_prop.BCxencat_layout" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Portal Layout]]></phrase>
+  <phrase title="style_prop.BCxencat_sidebar" version_id="2000010" version_string="2.0.1"><![CDATA[Enable sidebar]]></phrase>
+  <phrase title="style_prop_desc.BCxencat_background" version_id="2000010" version_string="2.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.BCxencat_infinite" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.BCxencat_infinite_click" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.BCxencat_layout" version_id="2000010" version_string="2.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.BCxencat_sidebar" version_id="2000010" version_string="2.0.1"><![CDATA[]]></phrase>
+  <phrase title="style_prop_group.BCxencat" version_id="2000010" version_string="2.0.0"><![CDATA[[BC] Xencat]]></phrase>
+  <phrase title="style_prop_group_desc.BCxencat" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Portal and featured threads manager.]]></phrase>
+  <phrase title="widget_def.BCxencat_articles" version_id="2000010" version_string="2.0.0"><![CDATA[BCxencat > Articles]]></phrase>
+  <phrase title="widget_def.BCxencat_features" version_id="2000010" version_string="2.0.0"><![CDATA[BCxencat > Features]]></phrase>
+  <phrase title="widget_def_desc.BCxencat_articles" version_id="2000010" version_string="2.0.0"><![CDATA[Displays a list of articles]]></phrase>
+  <phrase title="widget_def_desc.BCxencat_features" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Displays the feature slider.]]></phrase>
+  <phrase title="widget_pos.xencat_view_above_full" version_id="2000010" version_string="2.0.0"><![CDATA[BCxencat view: Above Full]]></phrase>
+  <phrase title="widget_pos.xencat_view_sidebar" version_id="2000010" version_string="2.0.0"><![CDATA[BCxencat view: Sidebar]]></phrase>
+  <phrase title="widget_pos_desc.xencat_view_above_full" version_id="2000010" version_string="2.0.0"><![CDATA[]]></phrase>
+  <phrase title="widget_pos_desc.xencat_view_sidebar" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Position in the sidebar while viewing featured threads on the xencat page.]]></phrase>
+  <phrase title="xencat_featured" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Featured]]></phrase>
+  <phrase title="xencat_featured_date" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Featured date]]></phrase>
+  <phrase title="xencat_featured_hint" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Featured threads will appear on the Portal page.]]></phrase>
+  <phrase title="xencat_post_date" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Post date]]></phrase>
+</phrases>
