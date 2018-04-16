@@ -43,7 +43,7 @@ https://codevn.net/threads/xencat-multi-concept-blog-magazine-news.32256/
 I want to check addons. I will update the description later!
 
 <div align="center">
-<a href="" rel="nofollow"><img src="https://camo.envatousercontent.com/9b1161bde18ec73746f3187fb5ad96bce7c368dc/687474703a2f2f736f6c656461642e70656e636964657369676e2e636f6d2f696d677468656d65666f726573742f627574746f6e2d766964656f732e706e67"></a>
+<a href="https://www.youtube.com/watch?v=gA6LYJMqiFI" rel="nofollow"><img src="https://camo.envatousercontent.com/9b1161bde18ec73746f3187fb5ad96bce7c368dc/687474703a2f2f736f6c656461642e70656e636964657369676e2e636f6d2f696d677468656d65666f726573742f627574746f6e2d766964656f732e706e67"></a>
 
 Chitchat
 --------
