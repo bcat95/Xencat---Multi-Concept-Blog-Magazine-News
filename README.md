@@ -1,8 +1,17 @@
-# Xencat - current version 2.0.1 available for download
+# Xencat - current version 2.0.2 available for download
 
 Donate
 ---------
 https://www.paypal.me/bcat95
+
+2.0.2.0 - CHANGELOG
+--------------
+* Fixes a js link to file
+* Add Public navigation Home
+* Update Standard layout demo: https://nhatkythuthuat.com/
+* Add Edit article promotion / Edit feature promotion
+
+
 
 Basic Features:
 --------------
