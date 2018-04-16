@@ -4,7 +4,7 @@ Donate
 ---------
 https://www.paypal.me/bcat95
 
-2.0.2.0 - CHANGELOG
+2.0.2 - CHANGELOG
 --------------
 * Fixes a js link to file
 * Add Public navigation Home
